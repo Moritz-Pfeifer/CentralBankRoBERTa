@@ -10,11 +10,10 @@
 
 Central bank communications are an important tool for guiding the economy and fulfilling monetary policy goals. Natural language pro-cessing (NLP) algorithms have been used to analyze central bank com-munications, but they often ignore context. Recent research has introduced deep-learning-based NLP algorithms, also known as large language models (LLMs), which take context into account. This study applies LLMs to central bank communications and constructs CentralBankRoBERTa, a state-of-the-art economic agent classifier that distinguishes five basic macroeconomic agents (households, firms, banks, the government and the central bank itself) and binary sentiment classifier that identifies the emotional content of sentences in central bank communications. Here we release our data, models, and code.
 
-Data
 
 ● [Data](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Data) 
 
-The tra data (sector-specific interest rate differentials, productivity and Taylor rules) are in this folder.
+The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall we have collected 19,381 speeches.
 
 ● [Data Analysis](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_analysis)
 
