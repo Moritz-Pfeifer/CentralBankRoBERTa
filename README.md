@@ -1,4 +1,4 @@
-a<table>
+<table>
   <tr>
     <td><img src="https://i.postimg.cc/63NfP4jK/Central-Bank-Ro-BERTa-logos-black.png" width="250" height="250"> </td>
     <td>
@@ -19,11 +19,11 @@ The training data of speeches from the Fed, the ECB and the BIS are in this fold
 
 The scripts and methodology for generating additional meta-labels. 
 
-● [Audience_classification](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
+● [Audience classification](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
 
 The script testing different large language such as BERT (Liu et al., [2019](https://github.com/your-username/CentralBankRoBERTA)), XLNET (Yang et al., [2019](https://doi.org/10.48550/ARXIV.1906.08237)) and FinBERT (Huang et al. [2022](https://doi.org/10.1111/1911-3846.12832)) for our economic agents classification task. 
 
-● [Sentiment_classification](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
+● [Sentiment classification](https://github.com/Moritz-Pfeifer/FED-Communications-Project/tree/main/Data_mining)
 
 The tools for collecting the data and setting up the databse itself can be found in the Data Mining folder. Support Vector Machine (SVM), Random Forest, and a two-step TF-IDF and Naïve Bayes (NB)
 
