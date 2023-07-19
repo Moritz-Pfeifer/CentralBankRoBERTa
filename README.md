@@ -29,7 +29,7 @@ The script testing different large language models and machine learning modems s
 
 ● [Model loader](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Model_loader)
 
-Go to this folder if you want to use CentralBankRoBERTA for your own analysis of central bank communications. Both the economic agents classifier and the sentiment classifier are here.
+Go to this folder if you want to use CentralBankRoBERTA for your own analysis of central bank communications. Both the economic agents classifier and the sentiment classifier and a step-by-step guide for implementantion are in here.
 
 
 
