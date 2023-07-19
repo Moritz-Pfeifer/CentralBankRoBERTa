@@ -5,7 +5,7 @@
       <h1 style="font-size: 36px; font-weight: bold; margin: 0;">CentralBankRoBERTA</h1>
       <p style="font-size: 18px; margin: 0;">A large language model for analyzing central bank communications</p>
     </td>
-  </tr> 
+  </tr>  
 </table>
 
 Central bank communications are an important tool for guiding the economy and fulfilling monetary policy goals. Natural language pro-cessing (NLP) algorithms have been used to analyze central bank communications, but they often ignore context. Recent research has introduced deep-learning-based NLP algorithms, also known as large language models (LLMs), which take context into account. This study applies LLMs to central bank communications and constructs CentralBankRoBERTa, a state-of-the-art economic agent classifier that distinguishes five basic macroeconomic agents (households, firms, banks, the government and the central bank itself) and binary sentiment classifier that identifies the emotional content of sentences in central bank communications. Here we release our data, models, and code.
