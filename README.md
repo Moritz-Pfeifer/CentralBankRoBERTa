@@ -12,7 +12,7 @@ Central bank communications are an important tool for guiding the economy and fu
 
 ● [Data](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Data) 
 
-The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall we have collected 19,381 speeches. To train our audience classifier, we have labelled we labeled 6,205 randomized sentences from the Fed database as speaking either about households, firms, the financial sector, the government, or the central bank itself. To train our sentiment classifier, we have labelled 6,683 sentences from the Fed database, which are either labeled as being positive (1) or negative (0). 
+The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall, we have collected 19,381 speeches. To train our audience classifier, we have labelled we labeled 6,205 randomized sentences from the Fed database as speaking either about households, firms, the financial sector, the government, or the central bank itself. To train our sentiment classifier, we have labelled 6,683 sentences from the Fed database, which are either labeled as being positive (1) or negative (0). 
 
 ● [Meta-labelling](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Meta_labelling)
 
@@ -30,7 +30,7 @@ The script testing different large language models (BERT, FinBERT, XLNET and RoB
 ● [Model loader](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Model_loader)
 
 
-Go to this folder if you want to use CentralBankRoBERTA for your own analysis of central bank communications. Both the economic agents classifier and the sentiment classifier and a step-by-step guide for implementantion are in here.
+Go to this folder if you want to use CentralBankRoBERTA for your own analysis of central bank communications. Both the economic agents classifier and the sentiment classifier and a step-by-step guide for implementation are in here.
 
 <p align="center">☆☆☆</p>
 
@@ -49,7 +49,7 @@ Go to this folder if you want to use CentralBankRoBERTA for your own analysis of
       <a href="mailto:pfeifer@wifa.uni-leipzig.de">pfeifer@wifa.uni-leipzig.de</a>
     </td>
     <td style="padding: 5px;">
-      Vincent P. Marohm<br>
+      Vincent P. Marohl<br>
       Columbia University<br>
       New York NY 10027, USA<br>
       <a href="mailto:vincent.marohl@columbia.edu">vincent.marohl@columbia.edu</a>
