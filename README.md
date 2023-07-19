@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://i.postimg.cc/8cTxrBYX/Central-Bank-Ro-BERTa-logos-black.png" width="250" height="250"> </td> 
+    <td><img src="https://i.postimg.cc/63NfP4jK/Central-Bank-Ro-BERTa-logos-black.png" width="250" height="250"> </td> 
     <td>
       <h1 style="font-size: 36px; font-weight: bold; margin: 0;">CentralBankRoBERTA</h1>
       <p style="font-size: 18px; margin: 0;">A large language model for analyzing central bank communications</p>
