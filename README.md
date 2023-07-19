@@ -32,49 +32,8 @@ The script testing different large language models (BERT, FinBERT, XLNET and RoB
 
 Go to this folder if you want to use CentralBankRoBERTA for your own analysis of central bank communications. Both the economic agents classifier and the sentiment classifier and a step-by-step guide for implementantion are in here.
 
-<!DOCTYPE html>
-<html>
+<center>☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆</center>
 
-<head>
-  <style>
-    .separator {
-      display: flex;
-      align-items: center;
-      text-align: center;
-    }
-
-    .separator::before,
-    .separator::after {
-      content: '*****';
-      flex: 1;
-      border-bottom: 1px solid #ccc;
-    }
-
-    .separator::before {
-      margin-right: 0.25em;
-    }
-
-    .separator::after {
-      margin-left: 0.25em;
-    }
-
-    table {
-      margin: 0 auto;
-      border-collapse: collapse;
-    }
-
-    th,
-    td {
-      border: 1px solid #ccc;
-      padding: 8px;
-      text-align: left;
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
-</head>
 
 <table>
   <tr>
