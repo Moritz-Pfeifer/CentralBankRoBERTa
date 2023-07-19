@@ -21,11 +21,12 @@ The scripts and methodology for generating additional meta-labels.
 
 ● [Audience classification](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Audience_classification)
 
-This folder contains the script testing different large language models such as BERT (Liu et al., [2019](https://github.com/your-username/CentralBankRoBERTA)), XLNET (Yang et al., [2019](https://doi.org/10.48550/ARXIV.1906.08237)) and FinBERT (Huang et al. [2022](https://doi.org/10.1111/1911-3846.12832)) for our economic agents classification task. 
+This folder contains the script testing different large language models such as BERT (Devlin et al., [2018](https://doi.org/10.48550/arXiv.1810.04805)), XLNET (Yang et al., [2019](https://doi.org/10.48550/ARXIV.1906.08237)), FinBERT (Huang et al. [2022](https://doi.org/10.1111/1911-3846.12832)) and RoBERTA (Liu et al., [2019](
+https://doi.org/10.48550/arXiv.1907.11692)) for our economic agents classification task. 
 
 ● [Sentiment classification](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Sentiment_classification)
 
-The script testing different large language models and machine learning modems such as Support Vector Machine (SVM), Random Forest, and a two-step TF-IDF and Naïve Bayes (NB) model on our sentiment classification task are in this folder. 
+The script testing different large language models (BERT, FinBERT and and machine learning modems such as Support Vector Machine (SVM), Random Forest, and a two-step TF-IDF and Naïve Bayes (NB) model on our sentiment classification task are in this folder. 
 
 ● [Model loader](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Model_loader)
 
