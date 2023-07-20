@@ -50,7 +50,7 @@ Go to this folder if you want to use CentralBankRoBERTA for your own analysis of
     </td>
     <td style="padding: 5px;">
       Vincent P. Marohl<br>
-      Columbia University<br>
+      Department of Mathematics, Columbia University<br>
       New York NY 10027, USA<br>
       <a href="mailto:vincent.marohl@columbia.edu">vincent.marohl@columbia.edu</a>
     </td>
