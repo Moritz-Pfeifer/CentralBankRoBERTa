@@ -1,6 +1,6 @@
 **Audience Classification**
 
-This folder contains the [script](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/blob/main/Audience_classification/Audience_classification.ipynb) within which the different NLP models are trained: 
+This folder contains the [script](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/blob/main/Audience_classification/Audience_classification.ipynb) within which the different NLP models are trained for audience classification: 
 
 1. BERT (Devlin et al., [2018](https://doi.org/10.48550/ARXIV.1810.04805))
 2. RoBERTa (Liu et al., [2019](https://doi.org/10.48550/ARXIV.1907.11692))
