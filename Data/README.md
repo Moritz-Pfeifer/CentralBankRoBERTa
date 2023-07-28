@@ -5,4 +5,4 @@ This folder contains:
 
 2. *Pre-Processed Data*: The Pre_Processed files are the labelled & pre-processed Datasets. This means that (1) the FED, BIS, ECB datasets were parsed into sentences,  punctuation and common redundant strings (that stem from PDF scans) were removed. (2) For the FED, sentences were randomnized and manually labelled. For the BIS and ECB, the datasets were labelled using Pseudolabels, and include only the most confident predictions. 
 
-3. *Pre-Processing Script*: The script with which the pre-processing was done ('Pre_Processing.ipynb') is also in this folder. 
+3. *Pre-Processing Script*: The script with which the frst step of the pre-processing was done ('Pre_Processing.ipynb') is also in this folder. The labelling for the FED was done manually on randomized sentences. The labelling for the ECB and BIS was done in the folder '[Meta_Labeling](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Meta_labelling)'
