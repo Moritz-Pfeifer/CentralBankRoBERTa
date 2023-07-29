@@ -12,7 +12,7 @@ Central bank communications are an important tool for guiding the economy and fu
 
 ● [Data](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Data) 
 
-The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall, we have collected 19,381 speeches. To train our audience classifier, we have labelled we labeled 6,205 randomized sentences from the Fed database as speaking either about households, firms, the financial sector, the government, or the central bank itself. To train our sentiment classifier, we have labelled 6,683 sentences from the Fed database, which are either labeled as being positive (1) or negative (0). 
+The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall, we have collected 19,381 speeches. To train our audience classifier, we have labeled we labeled 6,205 randomized sentences from the Fed database as speaking either about households, firms, the financial sector, the government, or the central bank itself. To train our sentiment classifier, we have labelled 6,683 sentences from the Fed database, which are either labeled as being positive (1) or negative (0). 
 
 ● [Meta-labelling](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Meta_labelling)
 
