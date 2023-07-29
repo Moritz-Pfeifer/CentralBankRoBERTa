@@ -14,7 +14,7 @@ Central bank communications are an important tool for guiding the economy and fu
 
 The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall, we have collected 19,381 speeches. To train our audience classifier, we have labeled we labeled 6,205 randomized sentences from the Fed database as speaking either about households, firms, the financial sector, the government, or the central bank itself. To train our sentiment classifier, we have labelled 6,683 sentences from the Fed database, which are either labeled as being positive (1) or negative (0). 
 
-🤗 The Huggingface 🤗 dataset card for the pre-labeled datasets can be found [here](https://huggingface.co/datasets/Moritz-Pfeifer/CentralBankCommunication)
+* 🤗 The Huggingface 🤗 dataset card for the pre-labeled datasets can be found [here](https://huggingface.co/datasets/Moritz-Pfeifer/CentralBankCommunication)
 
 ● [Meta-labelling](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Meta_labelling)
 
@@ -33,9 +33,9 @@ The script testing different large language models (BERT, FinBERT, XLNET and RoB
 
 Go to this folder if you want to use CentralBankRoBERTA for your own analysis of central bank communications. Both the economic agents classifier and the sentiment classifier and a step-by-step guide for implementation are in here.
 
-🤗 The Huggingface 🤗 pipeline for both models can be found here:
-* [AudienceClassifier](https://huggingface.co/Moritz-Pfeifer/CentralBankRoBERTa-audience-classifier)
-* [SentimentClassifier](Moritz-Pfeifer/CentralBankRoBERTa-sentiment-classifier)
+* 🤗 The Huggingface 🤗 pipeline for both models can be found here:
+  * [AudienceClassifier](https://huggingface.co/Moritz-Pfeifer/CentralBankRoBERTa-audience-classifier)
+  * [SentimentClassifier](Moritz-Pfeifer/CentralBankRoBERTa-sentiment-classifier)
 
 
 <p align="center">☆☆☆</p>
