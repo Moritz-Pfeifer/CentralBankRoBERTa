@@ -35,7 +35,7 @@ Go to this folder if you want to use CentralBankRoBERTA for your own analysis of
 
 * 🤗 The Huggingface 🤗 pipeline for both models can be found here:
   * [AudienceClassifier](https://huggingface.co/Moritz-Pfeifer/CentralBankRoBERTa-audience-classifier)
-  * [SentimentClassifier](Moritz-Pfeifer/CentralBankRoBERTa-sentiment-classifier)
+  * [SentimentClassifier](https://huggingface.co/Moritz-Pfeifer/CentralBankRoBERTa-sentiment-classifier)
 
 
 <p align="center">☆☆☆</p>
