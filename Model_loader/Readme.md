@@ -1,6 +1,6 @@
 ## Audience Classification and Sentiment Analysis with CentralBankRoBERTa
 
-This repository contains code to perform economic agent classification and sentiment analysis using a pretrained RoBERTa model. The code is designed to work on Google Colab and assumes that you have the required [data](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Data) and models ([Economic Agent Model](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Agent_classification/result/RoBERTa) and [Sentiment Model](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Sentiment_classification/result/RoBERTa/checkpoint-500) stored on your Google Drive.
+This repository contains code to perform economic agent classification and sentiment analysis using a pretrained RoBERTa model. The code is designed to work on Google Colab and assumes that you have the required [data](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Data) and models ([Economic Agent Model](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Agent_classification/result/RoBERTa) and [Sentiment Model](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Sentiment_classification/result/RoBERTa/checkpoint-500)) stored on your Google Drive.
 
 ### Setup
 
