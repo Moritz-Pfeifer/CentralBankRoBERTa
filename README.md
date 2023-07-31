@@ -12,7 +12,7 @@ Central bank communications are an important tool for guiding the economy and fu
 
 ● [Data](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Data) 
 
-The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall, we have collected 19,381 speeches. To train our audience classifier, we have labeled we labeled 6,205 randomized sentences from the Fed database as speaking either about households, firms, the financial sector, the government, or the central bank itself. To train our sentiment classifier, we have labelled 6,683 sentences from the Fed database, which are either labeled as being positive (1) or negative (0). 
+The training data of speeches from the Fed, the ECB and the BIS are in this folder. Overall, we have collected 19,381 speeches. To train our economic agents classifier, we have labeled we labeled 6,205 randomized sentences from the Fed database as speaking either about households, firms, the financial sector, the government, or the central bank itself. To train our sentiment classifier, we have labelled 6,683 sentences from the Fed database, which are either labeled as being positive (1) or negative (0). 
 
 * 🤗 The Huggingface 🤗 dataset card for the pre-labeled datasets can be found [here](https://huggingface.co/datasets/Moritz-Pfeifer/CentralBankCommunication)
 
@@ -20,7 +20,7 @@ The training data of speeches from the Fed, the ECB and the BIS are in this fold
 
 The scripts and methodology for generating additional meta-labels. 
 
-● [Audience classification](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Audience_classification)
+● [Economic agent classification](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/agent_classification)
 
 This folder contains the script testing different large language models such as BERT (Devlin et al., [2018](https://doi.org/10.48550/arXiv.1810.04805)), XLNET (Yang et al., [2019](https://doi.org/10.48550/ARXIV.1906.08237)), FinBERT (Huang et al. [2022](https://doi.org/10.1111/1911-3846.12832)) and RoBERTa (Liu et al., [2019](
 https://doi.org/10.48550/arXiv.1907.11692)) for our economic agents classification task. 
@@ -34,7 +34,7 @@ The script testing different large language models (BERT, FinBERT, XLNET and RoB
 Go to this folder if you want to use CentralBankRoBERTA for your own analysis of central bank communications. Both the economic agents classifier and the sentiment classifier and a step-by-step guide for implementation are in here.
 
 * 🤗 The Huggingface 🤗 pipeline for both models can be found here:
-  * [AudienceClassifier](https://huggingface.co/Moritz-Pfeifer/CentralBankRoBERTa-audience-classifier)
+  * [AgentClassifier](https://huggingface.co/Moritz-Pfeifer/CentralBankRoBERTa-agent-classifier)
   * [SentimentClassifier](https://huggingface.co/Moritz-Pfeifer/CentralBankRoBERTa-sentiment-classifier)
 
 
