@@ -44,7 +44,7 @@ Go to this folder if you want to use CentralBankRoBERTA for your own analysis of
 <table>
   <tr>
     <td colspan="2" style="border-top: 1px solid #ccc; padding: 5px; text-align: center;">
-      Please cite this model as Pfeifer, M. and Marohl, V.P. (2023) "CentralBankRoBERTa: A Fine-Tuned Large Language Model for Central Bank Communications" ADD SOURCE/LINK
+      Please cite this model as Pfeifer, M. and Marohl, V.P. (2023) "CentralBankRoBERTa: A Fine-Tuned Large Language Model for Central Bank Communications"
     </td>
   </tr>
   <tr>
