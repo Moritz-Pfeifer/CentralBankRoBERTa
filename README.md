@@ -8,6 +8,8 @@
   </tr>  
 </table>
 
+[![Paper Page](https://img.shields.io/badge/Paper_Page-j.jfds.2023.100114-green)](https://doi.org/10.1016/j.jfds.2023.100114) 
+
 Central bank communications are an important tool for guiding the economy and fulfilling monetary policy goals. Natural language pro-cessing (NLP) algorithms have been used to analyze central bank communications, but they often ignore context. Recent research has introduced deep-learning-based NLP algorithms, also known as large language models (LLMs), which take context into account. We apply LLMs to central bank communications and construct **CentralBankRoBERTa**, a state-of-the-art economic agent classifier that distinguishes five basic macroeconomic agents (households, firms, banks, the government and the central bank itself) and binary sentiment classifier that identifies the emotional content of sentences in central bank communications. A detailed discussion on the motivations and results for this model can be found in Pfeifer, M. and Marohl, V.P. (2023) "CentralBankRoBERTa: A Fine-Tuned Large Language Model for Central Bank Communications" ADD SOURCE/LINK. Here we release our data, models, and code. 
 
 ● [Data](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/tree/main/Data) 
@@ -63,6 +65,21 @@ Go to this folder if you want to use CentralBankRoBERTA for your own analysis of
   </tr>
 </table>
 
+### BibTeX entry and citation info
+
+```bibtex
+@article{Pfeifer2023,
+  title = {CentralBankRoBERTa: A fine-tuned large language model for central bank communications},
+  journal = {The Journal of Finance and Data Science},
+  volume = {9},
+  pages = {100114},
+  year = {2023},
+  issn = {2405-9188},
+  doi = {https://doi.org/10.1016/j.jfds.2023.100114},
+  url = {https://www.sciencedirect.com/science/article/pii/S2405918823000302},
+  author = {Moritz Pfeifer and Vincent P. Marohl},
+}
+```
 
 
 
