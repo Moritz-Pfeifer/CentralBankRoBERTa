@@ -24,7 +24,7 @@ This repository contains code to perform economic agent classification and senti
 
 2. If you are running the code on Google Colab, mount your Google Drive by following the steps mentioned in the Setup section.
 
-3. Copy and paste the code from [model_loader.ipynb]([model_loader.ipynb](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/blob/main/Model_loader/Model_loader.ipynb)) into your Python environment.
+3. Copy and paste the code from [model_loader.ipynb]([model_loader.ipynb](https://github.com/Moritz-Pfeifer/CentralBankRoBERTa/blob/main/Model_loader/Model_loader.ipynb) into your Python environment.
 
 4. Run the entire script.
 
